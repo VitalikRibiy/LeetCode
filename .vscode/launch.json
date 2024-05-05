@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".Net Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "D:\\Dev\\Repositories\\Learning\\LeetCode\\LeetCode\\bin\\Debug\\net8.0\\LeetCode.dll",
+            "args": [],
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+    ]
+}
